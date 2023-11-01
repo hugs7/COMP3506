@@ -2,14 +2,6 @@
 *.mkv
 *.mk4
 
-# Exclude Microsoft Documents files
-*.docx
-*.pptx
-*.xlsx
-
-*.pdf
-*.csv
-
 # Python cache
 **/./idea
 
